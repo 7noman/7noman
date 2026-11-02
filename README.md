@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on building practical projects in Web Development & Cybersecurity<br>- 👯 I’m looking to collaborate on Open Source and innovative tech projects<br>- 🤝 I’m looking for help with AI/ML & Cybersecurity<br>- 🌱 I’m currently learning Python, JAVA & Cybersecurity<br>- 💬 Ask me about Web Development, Python & DBMS<br>- ⚡ Fun fact: I’m always planning my next trip ✈️🌍
+- 🔭 I’m currently working on building practical projects in Web Development & Cybersecurity<br>- 👯 I’m looking to collaborate on Open Source and innovative tech projects<br>- 🤝 I’m looking for help with Cybersecurity<br>- 🌱 I’m currently learning Python, JAVA & Cybersecurity<br>- 💬 Ask me about Web Development, Python & DBMS<br>- ⚡ Fun fact: I’m always planning my next trip ✈️🌍
 
 
 ## 🌐 Socials:
